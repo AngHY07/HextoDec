@@ -34,4 +34,3 @@ def hexToDec(hexNum):
 
 
 print(hexToDec(value))
-hexToDec(value)
